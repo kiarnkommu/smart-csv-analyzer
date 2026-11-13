@@ -1,0 +1,11 @@
+order_id,product,category,quantity,unit_price,city
+1001,Chair,Furniture,2,4500,Hyderabad
+1002,Lamp,Lighting,1,1200,Secunderabad
+1003,Desk,Furniture,1,8500,Hyderabad
+1004,Plant,Decor,3,350,Warangal
+1005,Bookshelf,Furniture,1,6200,Karimnagar
+1006,Lamp,Lighting,,1200,Hyderabad
+1007,Clock,Decor,2,,Nizamabad
+1008,Chair,Furniture,2,4500,Hyderabad
+1008,Chair,Furniture,2,4500,Hyderabad
+1009,Vase,Decor,1,900,Khammam
